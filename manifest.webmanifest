@@ -1,6 +1,6 @@
 {
-  "name": "FRAME — Anime Tracker",
-  "short_name": "FRAME",
+  "name": "Anime Tracker",
+  "short_name": "Anime Tracker",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,10 +8,10 @@
   "theme_color": "#101016",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "./anime_tracker_app_icon.png",
       "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
