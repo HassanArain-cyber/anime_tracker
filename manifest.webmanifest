@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "./anime_tracker_app_icon.png",
-      "sizes": "any",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any"
     }
